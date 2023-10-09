@@ -1,4 +1,0 @@
-<div class="detailsectionwrapper">
-    <div class="resultheader">Construction Detail</div>
-    <p>Ship Type Group:Bulk Carrier-Pmax/Kamsarmax; Statcode5:A21A2BC; Standard design:Imabari 69; Hull Type:Double Bottom Entire Compartment Length; Hull Material:Steel; Strengthened for heavy cargoes; Hull Connections:Welded; Decks:1 dk; Bulbous bow; </p>
-</div>

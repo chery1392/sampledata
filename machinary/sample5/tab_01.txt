@@ -1,0 +1,4 @@
+    <div class="detailsectionwrapper">
+        <div class="resultheader">Machinery Overview</div>
+            <p>2 oil engines reduction geared to screw shafts driving 2 FP propellers  at 224 rpm Total Power:  Mcr 3,900kW (5,302hp), Csr 3,314kW (4,506hp)Max. Speed: 12.50kts, Service Speed: 10.00kts</p>
+    </div>

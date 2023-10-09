@@ -1,0 +1,59 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Event Timeline</div>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            <div>Date</div>
+                        </th>
+                        <th>
+                            <div>Significant Events</div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>
+                                <div>202306</div>
+                            </td>
+                            <td>
+                                <div>Flagged by China, People&#39;s Republic Of, Name changed to CHANG SHUN QIAN CHENG, Operator Shanghai Changshun Shpg Co Ltd, Technical Manager Shanghai Changshun Shpg Co Ltd, Owner Shanghai Changshun Shpg Co Ltd, Ship Manager Shanghai Changshun Shpg Co Ltd, Group Owner Shanghai Changshun Shpg Co Ltd</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202212</div>
+                            </td>
+                            <td>
+                                <div>Flagged by China, People&#39;s Republic Of, Name changed to Hua Da 610, Classed CC, Classed CC, Status changed to In Service/Commission, Operator Xiamen Xinhuada Shpg Co Ltd, Technical Manager Xiamen Xinhuada Shpg Co Ltd, Owner Xiamen Xinhuada Shpg Co Ltd, Ship Manager Xiamen Xinhuada Shpg Co Ltd, Group Owner Xiamen Xinhuada Shpg Co Ltd</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202208</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Launched</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202112</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Keel Laid</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202106</div>
+                            </td>
+                            <td>
+                                <div>Contemplated CC, Status changed to On Order/Not Commenced</div>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+</div>

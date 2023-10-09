@@ -1,0 +1,83 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Event Timeline</div>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            <div>Date</div>
+                        </th>
+                        <th>
+                            <div>Significant Events</div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>
+                                <div>201107</div>
+                            </td>
+                            <td>
+                                <div>PSC Inspected</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200702</div>
+                            </td>
+                            <td>
+                                <div>Classed AB</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200612</div>
+                            </td>
+                            <td>
+                                <div>Contemplated AB, Group Owner Britoil Offshore Services Pte</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200611</div>
+                            </td>
+                            <td>
+                                <div>Flagged by Singapore, Name changed to BRITOIL 66, Status changed to In Service/Commission, Operator Britoil Offshore Services Pte, Technical Manager Britoil Offshore Services Pte, Owner Britoil Offshore Services Pte, Ship Manager Britoil Offshore Services Pte</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200604</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Launched</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200507</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Keel Laid</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200506</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Under Construction</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200501</div>
+                            </td>
+                            <td>
+                                <div>Status changed to On Order/Not Commenced</div>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+</div>

@@ -1,0 +1,4 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Prime Mover Detail</div>
+    <p>Design: MAN-B &amp;W (Group: MAN-B &amp;W), Engine Builder: HSD Engine Co Ltd - South Korea 1 x 9G95ME-C10, 2 Stroke, Single Acting, In-Line (Vertical) 9 Cy. 950 x 3640, Mcr: 44,100 kW (59,958 hp) at 76 rpm</p>
+</div>

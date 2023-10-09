@@ -1,0 +1,99 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Event Timeline</div>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            <div>Date</div>
+                        </th>
+                        <th>
+                            <div>Significant Events</div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>
+                                <div>201502</div>
+                            </td>
+                            <td>
+                                <div>Flagged by Saudi Arabia, Name changed to HUTA 516, Operator Huta Marine Works Ltd, Technical Manager Huta Marine Works Ltd, Owner Huta Marine Works Ltd, Ship Manager Huta Marine Works Ltd, Group Owner Huta-Hegerfeld Saudia Ltd</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201412</div>
+                            </td>
+                            <td>
+                                <div>Disclassed BV</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201007</div>
+                            </td>
+                            <td>
+                                <div>PSC Inspected</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200807</div>
+                            </td>
+                            <td>
+                                <div>Flagged by St Vincent and The Grenadines</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>200701</div>
+                            </td>
+                            <td>
+                                <div>Group Owner DEME Group</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>198099</div>
+                            </td>
+                            <td>
+                                <div>Operator Decloedt en Zoon NV, Operator Decloedt Enterprises, Owner Decloedt en Zoon NV, Ship Manager Decloedt en Zoon NV</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>197802</div>
+                            </td>
+                            <td>
+                                <div>Flagged by Belgium, Classed BV, Status changed to In Service/Commission</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>197801</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Launched</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>197800</div>
+                            </td>
+                            <td>
+                                <div>Name changed to Zeebrugge I, Status changed to Keel Laid</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>197602</div>
+                            </td>
+                            <td>
+                                <div>Status changed to On Order/Not Commenced</div>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+</div>

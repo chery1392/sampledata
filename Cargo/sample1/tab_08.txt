@@ -1,7 +1,0 @@
-
-<div class="detailsectionwrapper">
-    <div class="resultheader">Tanks</div>
-    <p>
-5 Steel (Unspecified) Centre Or Only Cargo Tank(s), 5 Steel (Unspecified) Port Cargo Tank(s), 5 Steel (Unspecified) Starboard Cargo Tank(s), 1 Steel (Unspecified) Port Slop Tank(s), 1 Steel (Unspecified) Starboard Slop Tank(s), 3 Grades (cargo segregations)<br/>
-Cargo Tank(s) partially coated, Slop Tank(s) partially coated    </p>
-</div>

@@ -1,0 +1,75 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Event Timeline</div>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            <div>Date</div>
+                        </th>
+                        <th>
+                            <div>Significant Events</div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>
+                                <div>201512</div>
+                            </td>
+                            <td>
+                                <div>Group Owner Smit Lamnalco Netherlands BV</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201304</div>
+                            </td>
+                            <td>
+                                <div>Operator Smit Lamnalco Ltd, Operator Smit Lamnalco Netherlands BV, Technical Manager Smit Lamnalco Ltd, Technical Manager Smit Lamnalco Netherlands BV, Owner Smit Lamnalco Netherlands BV, Owner Smit Lamnalco Singapore Pte, Ship Manager Smit Lamnalco Ltd, Ship Manager Smit Lamnalco Netherlands BV, Group Owner Smit Lamnalco Ltd</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201211</div>
+                            </td>
+                            <td>
+                                <div>Technical Manager Smit Lamnalco Ltd, Owner Smit Lamnalco Ltd, Ship Manager Smit Lamnalco Ltd, Group Owner Damen Shipyards Group NV</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201210</div>
+                            </td>
+                            <td>
+                                <div>Flagged by Cyprus, Name changed to SL TIGER, LR Classed , Status changed to In Service/Commission</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201208</div>
+                            </td>
+                            <td>
+                                <div>Flagged by St Vincent and The Grenadines, Operator Damen Shipyards Gorinchem, Operator Smit Lamnalco Ltd, Owner Damen Shipyards Gorinchem, Ship Manager Damen Shipyards Gorinchem</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201108</div>
+                            </td>
+                            <td>
+                                <div>LR Class Contemplated , Status changed to Keel Laid</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201102</div>
+                            </td>
+                            <td>
+                                <div>Status changed to On Order/Not Commenced</div>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+</div>

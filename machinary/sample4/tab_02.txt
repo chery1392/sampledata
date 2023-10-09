@@ -1,0 +1,4 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Auxiliary Engines</div>
+        <p>Design: Man, Engine Builder: Man 2 x 7L32/40, 4 Stroke 7Cy. 320 x 400, Mcr: 3500 kW Design: Man, Engine Builder: Man 3 x 9L32/40, 4 Stroke 9Cy. 320 x 400, Mcr: 4500 kW</p>
+</div>

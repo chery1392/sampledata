@@ -1,0 +1,7 @@
+
+<div class="detailsectionwrapper">
+    <div class="resultheader">Bunkers</div>
+    <div>
+            <p>Fuel: distillate fuel: 321 cu m</p>
+    </div>
+</div>

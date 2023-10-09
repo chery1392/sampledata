@@ -1,0 +1,4 @@
+    <div class="detailsectionwrapper">
+        <div class="resultheader">Prime Mover Detail</div>
+            <p>Design: Wartsila (Group: Wartsila), Engine Builder: Wartsila Italia SpA - Italy 2 x 6L26A, 4 Stroke, Single Acting, In-Line (Vertical) 6 Cy. 260 x 320, Mcr: 1,950 kW (2,651 hp) at 1,000 rpm</p>
+    </div>

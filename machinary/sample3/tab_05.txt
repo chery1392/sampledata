@@ -1,0 +1,28 @@
+
+<div class="detailsectionwrapper">
+    <div class="resultheader">Bunkers</div>
+    <div>
+            <p>Fuel: distillate fuel: 240 cu m, residual fuel: 2,050 cu m</p>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Speed (kn)
+                            </th>
+                            <th>
+                                At Consumption (t)
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>14.40</td>
+                                <td>24.90</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+</div>

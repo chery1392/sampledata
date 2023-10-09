@@ -1,4 +1,0 @@
-<div class="detailsectionwrapper">
-    <div class="resultheader">Construction Detail</div>
-        <p>Ship Type Group:Tanker-VLCC; Statcode5:A13A2TV; Hull Type:Double Hull (Marpol); Hull Material:Steel; Hull Connections:Welded; Decks:1 dk; Bulbous bow; </p>
-</div>

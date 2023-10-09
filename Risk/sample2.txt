@@ -1,0 +1,298 @@
+<div class="detailsectionwrapper">
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        AIS
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Time since last seen on AIS
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">In Last 7 Days</span>
+        </div>
+        <div class="col-8  mb-2">
+            Days under AIS (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">363 (344)</span>
+        </div>
+        <div class="col-8  mb-2">
+            Anomalous AIS messages from MMSI (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Less Than 500</span>
+        </div>
+        <div class="col-8  mb-2">
+            IMO number transmitted correctly in AIS
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Matches</span>
+        </div>
+        <div class="col-8  mb-2">
+            Sailing under name transmitted on AIS
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Matches</span>
+        </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        Port Calls
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Port calls (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-amber badge-risk-indicator float-end">4 (18)</span>
+        </div>
+        <div class="col-8  mb-2">
+            Most recent sanctioned port call
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-red badge-risk-indicator float-end">20 Apr 2023 </span>
+        </div>
+        <div class="col-8  mb-2">
+            Highest ECR risk port (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-amber badge-risk-indicator float-end"><span class="badgelink" ><a href='/Content/AISLive/Includes/Location%20Analytics%20Risk%20Methodology.pdf' target='new'>Very High (3.54) <img src='/Images/Seaweb/exitsitewhite.png'></a></span></span>
+        </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        Associated with Russia
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Russian registration or ownership since February 2022
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">None Recorded</span>
+        </div>
+        <div class="col-8  mb-2">
+            Russian port calls since February 2022
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-red badge-risk-indicator float-end">07 Aug 2023 </span>
+        </div>
+        <div class="col-8  mb-2">
+            Russian tanker STS since December 2022
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">None Recorded</span>
+        </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        Safety, Security &amp; Inspections
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Casualty &amp; risk events (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">0</span>
+        </div>
+        <div class="col-8  mb-2">
+            Fleet casualty &amp; risk (last 3 years) vs fleet size
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">None Recorded</span>
+        </div>
+        <div class="col-8  mb-2">
+            Age of ship (compared to peer group average)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">17 (15)</span>
+        </div>
+        <div class="col-8  mb-2">
+            Inspections (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Yes</span>
+        </div>
+        <div class="col-8  mb-2">
+            Time since last inspection
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-amber badge-risk-indicator float-end">1-3 Years</span>
+        </div>
+        <div class="col-8  mb-2">
+            PSC defects (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">6</span>
+        </div>
+        <div class="col-8  mb-2">
+            PSC detentions (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">0</span>
+        </div>
+        <div class="col-8  mb-2">
+            Current safety management certificate inspected
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Yes</span>
+        </div>
+        <div class="col-8  mb-2">
+            Fleet PSC detentions (last 3 years) vs fleet size
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-red badge-risk-indicator float-end">1 (6)</span>
+        </div>
+</div>
+            </div>
+            <div class="col-md-6 col-sm-12">
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        Behavioural Risk
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Most recent dark shipping activity suspected
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">None Recorded</span>
+        </div>
+        <div class="col-8  mb-2">
+            Ship-to-Ship operations (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">48</span>
+        </div>
+        <div class="col-8  mb-2">
+            Draught changes (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">33</span>
+        </div>
+        <div class="col-8  mb-2">
+            Drifting high seas (last 12 months)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">23</span>
+        </div>
+        <div class="col-8  mb-2">
+            Illegal, unreported or unregulated fishing violation&#160;
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">None recorded</span>
+        </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        Owner &amp; Classification
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Classification Society
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">In Class</span>
+        </div>
+        <div class="col-8  mb-2">
+            Class status changes (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">0</span>
+        </div>
+        <div class="col-8  mb-2">
+            Special survey overdue
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Not Due</span>
+        </div>
+        <div class="col-8  mb-2">
+            P&amp;I Club check
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Covered</span>
+        </div>
+        <div class="col-8  mb-2">
+            Name changes (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">0</span>
+        </div>
+        <div class="col-8  mb-2">
+            DOC Company changes in Last 3 Years
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">1</span>
+        </div>
+        <div class="col-8  mb-2">
+            Group owner company changes (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">0</span>
+        </div>
+        <div class="col-8  mb-2">
+            Ownership unknown
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Recorded</span>
+        </div>
+        <div class="col-8  mb-2">
+            Single-ship fleet (technical manager)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">6</span>
+        </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12 fw-bold">
+        Flag Risk
+        <hr class="ms-0 mt-1 mb-2" />
+    </div>
+        <div class="col-8  mb-2">
+            Flag changes (last 3 years)
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">0</span>
+        </div>
+        <div class="col-8  mb-2">
+            Flag Paris MOU performance
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Whitelist</span>
+        </div>
+        <div class="col-8  mb-2">
+            Flag Tokyo MOU performance
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Whitelist</span>
+        </div>
+        <div class="col-8  mb-2">
+            Flag US Coastguard MOU performance
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-amber badge-risk-indicator float-end">Targeted</span>
+        </div>
+        <div class="col-8  mb-2">
+            Flag US Coastguard Qualship 21
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-amber badge-risk-indicator float-end">No</span>
+        </div>
+        <div class="col-8  mb-2">
+            Risk Data Maintained For Vessel&#160;
+        </div>
+        <div class="col-4 mb-2">
+             <span class="badge badge-aqua badge-risk-indicator float-end">Yes</span>
+        </div>
+</div>
+            </div>
+        </div>
+</div>
+

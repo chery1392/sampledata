@@ -1,0 +1,4 @@
+    <div class="detailsectionwrapper">
+        <div class="resultheader">Machinery Overview</div>
+            <p>1 oil engine driving 1 FP propeller  at 76 rpm Total Power:  Mcr 44,100kW (59,958hp)Max. Speed: 23.00kts</p>
+    </div>

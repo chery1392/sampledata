@@ -1,4 +1,0 @@
-<div class="detailsectionwrapper">
-    <div class="resultheader">Specialist</div>
-    <p>COW, IGS, SBT (Protective), Closed Loading, VRS - Vapour Recovery System, Slop Capacity 8,705, SPM Equipped, 2 Tongue Bow Stoppers, 350t SWL, Flash Point Under 60c, 3 Lines (manifolds) per Side, 68.50m Mid Point Manifold Forward (Light), 98.00m Parallel Body Length (Light), 29.50m Mid Point Manifold Aft (Light), 85.30m Mid Point Manifold Forward (Ballast), 144.90m Parallel Body Length (Ballast), 59.60m Mid Point Manifold Aft (Ballast), 95.90m Mid Point Manifold Forward (Laden), 181.30m Parallel Body Length (Laden), 85.40m Mid Point Manifold Aft (Laden), 162.00m Bow to Centre Manifold, 0.406m Manifold Discharge Diameter</p>
-</div>

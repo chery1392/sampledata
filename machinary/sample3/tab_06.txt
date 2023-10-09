@@ -1,0 +1,4 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Prime Mover Detail</div>
+    <p>Design: MAN-B &amp;W (Group: MAN-B &amp;W), Engine Builder: Dalian Marine Diesel Co Ltd - China 1 x 5S60ME-C8, 2 Stroke, Single Acting, In-Line (Vertical) 5 Cy. 600 x 2400, Mcr: 8,050 kW (10,945 hp) at 89 rpm</p>
+</div>

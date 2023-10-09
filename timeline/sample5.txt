@@ -1,0 +1,91 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Event Timeline</div>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            <div>Date</div>
+                        </th>
+                        <th>
+                            <div>Significant Events</div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>
+                                <div>202211</div>
+                            </td>
+                            <td>
+                                <div>SMC Certificate issued by American Bureau of S Expires 20250212</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202105</div>
+                            </td>
+                            <td>
+                                <div>SMC Certificate issued by American Bureau of S Expires 20250212</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202104</div>
+                            </td>
+                            <td>
+                                <div>Flagged by Saudi Arabia</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>202002</div>
+                            </td>
+                            <td>
+                                <div>SMC Certificate issued by American Bureau of S Expires 20250212</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201712</div>
+                            </td>
+                            <td>
+                                <div>SMC Certificate issued by American Bureau of S Expires 20200212, Technical Manager Zamil Offshore Services Co Ltd</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201407</div>
+                            </td>
+                            <td>
+                                <div>Flagged by Bahrain, Name changed to ZAMIL 602, Classed AB, Status changed to In Service/Commission, Operator Zamil Offshore Services Co Ltd, Owner Zamil Offshore Services Co Ltd, Ship Manager Zamil Offshore Services Co Ltd, Group Owner Zamil Group Holding Co</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201404</div>
+                            </td>
+                            <td>
+                                <div>Status changed to Launched</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201309</div>
+                            </td>
+                            <td>
+                                <div>Contemplated AB, Status changed to Keel Laid</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>201301</div>
+                            </td>
+                            <td>
+                                <div>Status changed to On Order/Not Commenced</div>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+</div>

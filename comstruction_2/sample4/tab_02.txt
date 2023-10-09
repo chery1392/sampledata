@@ -1,4 +1,0 @@
-<div class="detailsectionwrapper">
-    <div class="resultheader">Alterations &amp; Conversion</div>
-        <p>Converted from: Offshore Supply Ship-201911</p>
-</div>

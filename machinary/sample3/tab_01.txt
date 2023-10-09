@@ -1,0 +1,4 @@
+    <div class="detailsectionwrapper">
+        <div class="resultheader">Machinery Overview</div>
+            <p>1 oil engine driving 1 FP propeller  at 89 rpm Total Power:  Mcr 8,050kW (10,945hp)Service Speed: 14.20kts Speed &amp; Consumption: 14.40 knots on 24.90 tonnes per day</p>
+    </div>

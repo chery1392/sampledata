@@ -1,4 +1,0 @@
-<div class="detailsectionwrapper">
-    <div class="resultheader">Construction Detail</div>
-        <p>Statcode5:B33A2DW; Standard design:GPA 654; Hull Material:Steel; Hull Connections:Welded; Decks:1 dk; </p>
-</div>

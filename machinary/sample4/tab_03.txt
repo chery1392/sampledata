@@ -1,0 +1,4 @@
+    <div class="detailsectionwrapper">
+        <div class="resultheader">Auxiliary Generators</div>
+            <p>3 x 3,600kW 6,600V 60Hz a.c., 2 x 2,800kW 6,600V 60Hz a.c.</p>
+    </div>

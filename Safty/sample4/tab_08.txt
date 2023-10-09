@@ -1,0 +1,59 @@
+
+<div class="detailsectionwrapper">
+    <div class="resultheader">Casualty &amp; Events</div>
+        <p> At most, the first fifty Events are returned. Click <a href="/Areas/Seaweb/authenticated/authenticated_handler.aspx?control=list&LRNO=8972259&FieldList=&JoinExpressionAll=+&SpecialIndicator=&ListType=Events&searchstring=LRNO&Size=20&bp=1">here</a> to return the entire list into Search Results.</p>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>
+                        <div>
+                            Event ID
+                        </div>
+                    </th>
+                    <th>
+                        <div>Name at time of Incident</div>
+                    </th>
+                    <th>
+                        <div>Event Type</div>
+                    </th>
+                    <th>
+                        <div>Detail</div>
+                    </th>
+                    <th>
+                        <div>Significance</div>
+                    </th>
+                    <th>
+                        <div>Start Date</div>
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div>
+                                <a href="/Events/Details/641258">
+                                    641258
+                                </a>
+                            </div>
+                        </td>
+                        <td>
+                            <div>LEONID ZAYAKIN</div>
+                        </td>
+                        <td>
+                            <div>Casualty</div>
+                        </td>
+                        <td>
+                            <div>Collisions</div>
+                        </td>
+                        <td>
+                            <div>Serious</div>
+                        </td>
+                        <td>
+                            <div>2009-11-04</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+</div>

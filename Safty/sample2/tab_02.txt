@@ -1,0 +1,5 @@
+
+<div class="detailsectionwrapper">
+    <div class="resultheader">Class</div>
+            <p>American Bureau of Shipping (2002-09-00) AB: Special Survey Date: 2022-09-13 Class Notation: (+)A1, Container Carrier, (E.), (+)AMS, (+)ACCU, SHR, CRC, PMP+ Service Restriction: Unrestricted Service</p>
+</div>

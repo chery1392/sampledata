@@ -1,0 +1,116 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Recycling Detail (Broken up ships only)</div>
+    <div class="row">
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Category">Category</label>
+                </div>
+                <div class='col-8 valuetext'>Broken Up</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Arrived">Date Arrived</label>
+                </div>
+                <div class='col-8 valuetext'>2023-09-11</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Commenced">Date Commenced</label>
+                </div>
+                <div class='col-8 valuetext'>2023-09-17</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Completed">Date Completed</label>
+                </div>
+                <div class='col-8 valuetext'></div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Shipbreaker">Shipbreaker</label>
+                </div>
+                <div class='col-8 valuetext'>
+                    <a href='javascript:void(0)' data-bs-toggle='tooltip' data-bs-html='true' data-bs-placement='right' data-bs-title='HM Shipping Lines Ltd<br />' aria-disabled='True'>Hm Shipping Lines Ltd</a>
+                    <span class='infopointer' data-bs-toggle='popover' data-bs-html='true' data-bs-content='HM Shipping Lines Ltd<br />'></span>
+                </div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Place">Place</label>
+                </div>
+                <div class='col-8 valuetext'>Chattogram </div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Country">Country</label>
+                </div>
+                <div class='col-8 valuetext'>Bangladesh</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Marsden">Marsden Grid</label>
+                </div>
+                <div class='col-8 valuetext'>99</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Zone">Zone</label>
+                </div>
+                <div class='col-8 valuetext'>Bay Of Bengal</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Latitude">Latitude</label>
+                </div>
+                <div class='col-8 valuetext'>22 13 29 N</div>
+            </div>
+        </div>
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Longitude">Longitude</label>
+                </div>
+                <div class='col-8 valuetext'>91 48 31 E</div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="ScrapPriceDisplayed">Scrap Price</label>
+                </div>
+                <div class='col-8 valuetext'>$550(10,934 LDT)  $6,013,700 total</div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class='col-sm-12 col-md-6 col-lg-6'>
+            <div class='row'>
+                <div class='col-4 keytext'>
+                    <label for="Notes">Notes</label>
+                </div>
+                <div class='col-8 valuetext'></div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,138 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Three Year Event Summary</div>
+        <div>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>
+                        <div>Significant Event</div>
+                    </th>
+                    <th>
+                        <div>Last 12 months</div>
+                    </th>
+                    <th>
+                        <div>Between 1 and 2 years ago</div>
+                    </th>
+                    <th>
+                        <div>2-3 years ago</div>
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div>Casualties</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>Class status changes</div>
+                        </td>
+                        <td>
+                            <div>1</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>Detentions</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>1</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>DOC certificates</div>
+                        </td>
+                        <td>
+                            <div>2</div>
+                        </td>
+                        <td>
+                            <div>1</div>
+                        </td>
+                        <td>
+                            <div>1</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>Flag changes</div>
+                        </td>
+                        <td>
+                            <div>1</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>Group Owner changes</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>Inspections</div>
+                        </td>
+                        <td>
+                            <div>4</div>
+                        </td>
+                        <td>
+                            <div>5</div>
+                        </td>
+                        <td>
+                            <div>3</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>Name changes</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                        <td>
+                            <div>0</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    
+</div>

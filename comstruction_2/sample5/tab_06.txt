@@ -1,0 +1,10 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Shipbuilder</div>
+            <p>
+                1997-01
+                
+                
+                <a href="/Builders/Details/JPN017" data-bs-toggle="tooltip" title="Koyo Dockyard Co Ltd (Mihara, Hiroshima, Japan) Closed">Koyo Dockyard Co Ltd - Mihara HS</a>
+                  Yard/hull No.: 2075
+            </p>
+</div>

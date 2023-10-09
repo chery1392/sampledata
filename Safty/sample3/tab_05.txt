@@ -1,0 +1,2114 @@
+<script src="/Scripts/Seaweb/seaweb.js"></script>
+
+<div class="detailsectionwrapper">
+    <div class="resultheader">Inspections &amp; Detentions</div>
+        <p class="fw-bold">
+            Data as reported by Port State Control Authorities
+        </p>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Authority
+                            </th>
+                            <th>
+                                Status
+                            </th>
+                            <th>
+                                Date
+                            </th>
+                            <th>
+                                Place
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                Flag
+                            </th>
+                            <th>
+                                Class
+                            </th>
+                            <th>
+                                Owner
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>
+                                    Black Sea MOU
+                                </td>
+                                <td>
+                                    More detailed inspection
+                                </td>
+                                <td>
+                                    2023-07-29
+                                </td>
+                                <td>
+                                    Constantza
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Barbados
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Certificates & Documentation - Document - Unattended Machinery Spaces (UMS) Evidence (Others)<BR>Safety of Navigation - Voyage or passage plan (To be rectified before departure)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    More detailed inspection
+                                </td>
+                                <td>
+                                    2023-07-29
+                                </td>
+                                <td>
+                                    Agigea
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Barbados
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Certificates & Documentation - Document - Unattended Machinery Spaces (UMS) Evidence<BR>Safety of Navigation - Voyage or passage plan<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2023-05-09
+                                </td>
+                                <td>
+                                    Yarimca
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        1  Defect:<BR>Water/Weathertight condition - Other (load lines)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Indian Ocean MOU
+                                </td>
+                                <td>
+                                    Initial Inspection
+                                </td>
+                                <td>
+                                    2022-11-18
+                                </td>
+                                <td>
+                                    Mombasa
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Gemiciler Denizcilik Nakliyat
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Initial inspection
+                                </td>
+                                <td>
+                                    2022-09-16
+                                </td>
+                                <td>
+                                    Subic Bay
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Indian Ocean MOU
+                                </td>
+                                <td>
+                                    Initial Inspection
+                                </td>
+                                <td>
+                                    2022-08-25
+                                </td>
+                                <td>
+                                    Chennai
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Gemiciler Denizcilik Nakliyat
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Life saving appliances - Lifeboats (To be rectified before departure)<BR>Life saving appliances - Rescue boats (To be rectified before departure)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Indian Ocean MOU
+                                </td>
+                                <td>
+                                    Follow up
+                                </td>
+                                <td>
+                                    2022-08-25
+                                </td>
+                                <td>
+                                    Chennai
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Gemiciler Denizcilik Nakliyat
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Life saving appliances - Lifeboats (To be rectified before departure, Rectified)<BR>Life saving appliances - Rescue boats (To be rectified before departure, Rectified)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    More detailed inspection
+                                </td>
+                                <td>
+                                    2022-07-17
+                                </td>
+                                <td>
+                                    Burgas
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        3   Defects:<BR>Certificates & Documentation - Document - Oil record book (To be rectified before departure)<BR>Emergency Systems - Muster list (To be rectified before departure)<BR>Fire safety - Fire detection and alarm system (To be rectified within 14 days)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2022-01-17
+                                </td>
+                                <td>
+                                    Abu Qir
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Certificates & Documentation - Document - SOPEP<BR>Radio Communication - VHF radio installation<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detention-11 Days
+                                </td>
+                                <td>
+                                    2021-10-25
+                                </td>
+                                <td>
+                                    Bremen
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        26  Defects:<BR>Certificates & Documentation - Crew Certificate - Medical Certificate<BR>Certificates & Documentation - Crew Certificate - Seafarers' employment agreement (SEA)<BR>Certificates & Documentation - Document - Collective bargaining agreement<BR>Structural Condition - Beams, frames, floors-corrosion<BR>Structural Condition - Wheelhouse -door -window<BR>Water/Weathertight condition - Covers (hatchway-, portable-, tarpaulins, etc.)<BR>Water/Weathertight condition - Windows, sidescuttles and deadlights<BR>Water/Weathertight condition - Manholes/flush scuttles<BR>Emergency Systems - Fire drills<BR>Fire safety - Fire doors/openings in fire-resisting divisions<BR>Fire safety - Means of escape<BR>Safety of Navigation - Lights, shapes, sound-signals<BR>Safety of Navigation - Charts<BR>Pollution Prevention - MARPOL Annex VI - Fuel change-over procedure<BR>ISM - ISM<BR>Labour Conditions - Conditions of employment - Fitness for duty - work and rest hours<BR>Labour Conditions - Conditions of employment - Wages<BR>Labour Conditions - Accommodation, recreational facilities, food and catering - Sanitary Facilities<BR>Labour Conditions - Accommodation, recreational facilities, food and catering - Cold room, cold room cleanliness, cold room temperature<BR>Labour Conditions - Health protection, medical care,social security - Lighting (Working spaces)<BR>Labour Conditions - Health protection, medical care,social security - Electrical<BR>Labour Conditions - Health protection, medical care,social security - Dangerous areas<BR>Labour Conditions - Health protection, medical care,social security - Other (Health protection, medical care)<BR>Water/Weathertight condition - Manholes/flush scuttles<BR>Labour Conditions - Conditions of employment - Wages<BR>Labour Conditions - Conditions of employment - Wages<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Initial Inspection
+                                </td>
+                                <td>
+                                    2021-05-22
+                                </td>
+                                <td>
+                                    Tanjung Perak
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    More detailed inspection
+                                </td>
+                                <td>
+                                    2020-12-01
+                                </td>
+                                <td>
+                                    Ceuta
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        6   Defects:<BR>Certificates & Documentation - Ship Certificate - Maritime Labour Certificate<BR>Certificates & Documentation - Document - Oil record book<BR>Certificates & Documentation - Document - Garbage record book<BR>Structural Condition - Electrical installations in general<BR>Structural Condition - Other (Structural conditions)<BR>Pollution Prevention - Ballast Water - Ballast Water Exchange<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2020-11-23
+                                </td>
+                                <td>
+                                    Aliaga
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Initial inspection
+                                </td>
+                                <td>
+                                    2020-01-28
+                                </td>
+                                <td>
+                                    Gijon
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2019-09-19
+                                </td>
+                                <td>
+                                    Annaba
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Certificates & Documentation - Ship Certificate - Cargo Ship Safety Equipment (including exemption) (To be rectified within 3 months)<BR>Propulsion and auxiliary machinery - Auxiliary engine (To be rectified within 3 months)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Black Sea MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2019-06-22
+                                </td>
+                                <td>
+                                    Novorossiysk
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Ropes and wires<BR>Access / structural features (ship)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Initial inspection
+                                </td>
+                                <td>
+                                    2019-01-24
+                                </td>
+                                <td>
+                                    Lavrion
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Mia Shipping Inc
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        1  Defect:<BR>Fire safety - Fire-dampers<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2018-12-28
+                                </td>
+                                <td>
+                                    Casablanca
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2018-04-09
+                                </td>
+                                <td>
+                                    Laayoune
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    Gemiciler Denizcilik
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2017-10-30
+                                </td>
+                                <td>
+                                    Beirut
+                                </td>
+                                <td>
+                                    Teos
+                                </td>
+                                <td>
+                                    Panama
+                                </td>
+                                <td>
+                                    Indian Register Of Shipping
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2017-06-08
+                                </td>
+                                <td>
+                                    Monfalcone
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Dnv Gl As
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        2   Defects:<BR>Working and Living Conditions - Working Conditions - Cleanliness of engine room - Insufficient<BR>Fire safety - Fire detection and alarm system - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Vina Del Mar
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2017-02-09
+                                </td>
+                                <td>
+                                    Maracaibo
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Follow up
+                                </td>
+                                <td>
+                                    2016-07-21
+                                </td>
+                                <td>
+                                    Newcastle (Australia)
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Island Bereederungs Ug (Haftungsbeschrankt) &amp; Co Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        0  Defect:<BR>Safety of Navigation - Monitoring of voyage or passage plan (To be rectified at next port of call, Rectified,)<BR>Water/Weathertight condition - Manholes/flush scuttles (To be rectified before departure, Rectified,)<BR>Propulsion and auxiliary machinery - Propulsion main engine (To be rectified before departure, Rectified,)<BR>Emergency Systems - Emergency source of power - Emergency generator (To be rectified before departure, Rectified,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2016-06-28
+                                </td>
+                                <td>
+                                    Fremantle
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistics Gmbh&amp;Co. Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        4   Defects:<BR>Safety of Navigation - Monitoring of voyage or passage plan (To be rectified at next port of call,)<BR>Water/Weathertight condition - Manholes/flush scuttles (To be rectified before departure,)<BR>Propulsion and auxiliary machinery - Propulsion main engine (To be rectified before departure,)<BR>Emergency Systems - Emergency source of power - Emergency generator (To be rectified before departure, Rectified,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Follow up
+                                </td>
+                                <td>
+                                    2016-06-28
+                                </td>
+                                <td>
+                                    Fremantle
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistics Gmbh&amp;Co. Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        3   Defects:<BR>FIRE DETECTION SENSOR NO.10 (BOW) FOUND SWITCHED OFF AT TIME OF INSPECTION; ALARM SOUNDED WHEN SWITCHED ON AGAIN. (Rectify deficiency before departure, Deficiency rectified,)<BR>SCANNED CHART BA 3833 USED FOR ENTRY INTO SINGAPORE (Rectify deficiency before departure, Deficiency rectified,)<BR>BA 2403 NOT USED FOR DEPARTURE VOYAGE TO KUANTAN; LARGE SCALE CHARTS FOR SINGAPORE ANCHORAGES NOT AVAILABLE. (Rectify deficiency before departure, Deficiency rectified,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2016-06-03
+                                </td>
+                                <td>
+                                    Singapore
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        3   Defects:<BR>Fire detection and alarm system<BR>Charts<BR>Voyage or passage plan<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2016-02-06
+                                </td>
+                                <td>
+                                    Malmo
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Dnv Gl As
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        7   Defects:<BR>Fire safety - Fire doors/openings in fire-resisting divisions - Not as required<BR>Structural condition - Electrical installations in general - Not as required<BR>Fire safety - Division - decks,bulkheads and penetrations - Not as required<BR>Labour Conditions - Health protection, medical care,social security - Access / structural features (ship) - Damaged<BR>Labour Conditions - Health protection, medical care,social security - Other (Health protection, medical care) - Other<BR>Fire safety - Personal equipment for fire safety - Not as required<BR>ISM - ISM - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2015-12-20
+                                </td>
+                                <td>
+                                    Aqaba
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Vina Del Mar
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2015-08-22
+                                </td>
+                                <td>
+                                    Santa Marta
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2015-04-15
+                                </td>
+                                <td>
+                                    Mobile
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        1  Defect:<BR>PERSONNEL -  CERTIFICATES/DOCUMENTS/LICENSES<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Initial Inspection
+                                </td>
+                                <td>
+                                    2015-02-24
+                                </td>
+                                <td>
+                                    Gijon
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Dnv Gl As
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        4   Defects:<BR>Safety of Navigation - Charts - Missing<BR>Certificates & Documentation - Crew Certificate - Endorsement by flagstate - Missing<BR>Water/Weathertight condition - Scuppers, inlets and discharges - Corroded<BR>Labour Conditions - Health protection, medical care,social security - Lighting (Working spaces) - Damaged<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Indian Ocean MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2014-12-10
+                                </td>
+                                <td>
+                                    Hodeidah
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    Bbc Chartering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2014-08-01
+                                </td>
+                                <td>
+                                    Gladstone
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh &amp; Co Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        3   Defects:<BR>Emergency Systems - Emergency source of power - Emergency generator (To be rectified before departure, Rectified,)<BR>Pollution Prevention - MARPOL Annex IV - Other (MARPOL Annex IV) (To be rectified before departure, Rectified,)<BR>Safety of Navigation - Compass correction log (To be rectified within 14 days,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2014-04-07
+                                </td>
+                                <td>
+                                    Bremerhaven
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        10  Defects:<BR>Safety of Navigation - Nautical publications - Missing<BR>Safety of Navigation - Charts - Not updated<BR>Safety of Navigation - Nautical publications - Expired<BR>Safety of Navigation - Magnetic compass - Not readable<BR>Fire safety - Fire-dampers - Inoperative<BR>Working and Living Conditions - Working Conditions - Ventilation (Working spaces) - Not as required<BR>Fire safety - Ventilation  - Inoperative<BR>Working and Living Conditions - Working Conditions - Lighting (Working spaces) - Missing<BR>Working and Living Conditions - Working Conditions - Other (accident prevention) - Other<BR>Pollution Prevention - MARPOL Annex I - Pumping, piping and discharge arrangements - Not properly mantained<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2014-03-19
+                                </td>
+                                <td>
+                                    Bayonne (France)
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        19  Defects:<BR>Labour Conditions - Health protection, medical care,social security - Electrical - Unsafe<BR>Alarms - Boiler alarm - Inadequate<BR>ISM - ISM - Not as required<BR>Labour Conditions - Health protection, medical care,social security - Anchoring devices - Corroded<BR>Certificates & Documentation - Document - Signs, indications - Missing<BR>Fire safety - Remote Means of control (opening,pumps,ventilation,etc.) Machinery spaces - Inoperative<BR>Labour Conditions - Health protection, medical care,social security - Lighting (Working spaces) - Missing<BR>Emergency Systems - Emergency fire pump and its pipes - Inoperative<BR>Labour Conditions - Health protection, medical care,social security - Dangerous areas - Unsafe<BR>Certificates & Documentation - Document - Fire control plan - all - Not as required<BR>Life saving appliances - On board training and instructions - Lack of training<BR>Life saving appliances - Launching  arrangements for rescue boats - Not properly mantained<BR>Life saving appliances - Launching  arrangements for rescue boats - Not properly mantained<BR>Safety of Navigation - Magnetic compass - Not readable<BR>Propulsion and auxiliary machinery - Auxiliary engine - Not as required<BR>Propulsion and auxiliary machinery - Other (machinery) - Other<BR>Alarms - Machinery controls alarm - Inoperative<BR>Propulsion and auxiliary machinery - Other (machinery) - Other<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Vina Del Mar
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2014-01-30
+                                </td>
+                                <td>
+                                    Coatzacoalcos
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2014-01-20
+                                </td>
+                                <td>
+                                    Charleston
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2013-10-14
+                                </td>
+                                <td>
+                                    Santander
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        11  Defects:<BR>Fire safety - Fixed fire extinguishing installation - Not as required<BR>Life saving appliances - Stowage and provision of liferafts - Not properly stowed<BR>Life saving appliances - Launching  arrangements for rescue boats - Not as required<BR>Labour Conditions - Accommodation, recreational facilities, food and catering - Cleanliness - Not as required<BR>Labour Conditions - Accommodation, recreational facilities, food and catering - Cold room, cold room cleanliness, cold room temperature - Not as required<BR>Labour Conditions - Health protection, medical care,social security - Access / structural features (ship) - Not as required<BR>Working and Living Conditions - Working Conditions - Cleanliness of engine room - Insufficient<BR>Propulsion and auxiliary machinery - Propulsion main engine - Not as required<BR>Alarms - Boiler alarm - Inadequate<BR>Labour Conditions - Health protection, medical care,social security - Electrical - Unsafe<BR>ISM - ISM - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2013-01-15
+                                </td>
+                                <td>
+                                    Valencia
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        3   Defects:<BR>Water/Weathertight condition - Ventilators, air pipes, casings - Not as required<BR>Working and Living Conditions - Working Conditions - Safe means of access - Not as required<BR>Certificates & Documentation - Crew Certificate - Certificate for rating for watchkeeping - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2012-09-07
+                                </td>
+                                <td>
+                                    Honolulu
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Follow up
+                                </td>
+                                <td>
+                                    2012-07-04
+                                </td>
+                                <td>
+                                    Kwinana, WA, AUSTRALIA
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh &amp; Co Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        12  Defects:<BR>Emergency Systems - Emergency source of power - Emergency generator (Rectified,)<BR>Emergency Systems - Emergency fire pump and its pipes (Rectified,)<BR>Life saving appliances - Operational readiness of lifesaving appliances (To be rectified before departure, Rectified,)<BR>Life saving appliances - Operational readiness of lifesaving appliances (To be rectified before departure, Rectified,)<BR>Fire safety - Personal equipment for fire safety (To be rectified before departure, Rectified,)<BR>Life saving appliances - Rescue boat inventory (To be rectified before departure, Rectified,)<BR>Fire safety - Personal equipment for fire safety (To be rectified before departure, Rectified,)<BR>Fire safety - Fire-dampers (To be rectified before departure,)<BR>Radio communication - Operation of GMDSS equipment (To be rectified before departure,)<BR>Life saving appliances - Maintenance of Life Saving Appliances (To be rectified before departure, Rectified,)<BR>ISM - Maintenance of the ship and equipment (To be rectified within 3 months,)<BR>Radio communication - Facilities for reception of marine safety inform. (To be rectified before departure, Rectified,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Follow up
+                                </td>
+                                <td>
+                                    2012-07-04
+                                </td>
+                                <td>
+                                    Kwinana, WA, AUSTRALIA
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh &amp; Co Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        0  Defect:<BR>Emergency generator unable to be started. (Detainable deficiency, Deficiency rectified,)<BR>Emergency fire pump unable to be demonstrated (Detainable deficiency, Deficiency rectified,)<BR>Free fall lifeboat engine unable to start (Rectify deficiency before departure, Deficiency rectified,)<BR>Rescue boat engine unable to be started (Rectify deficiency before departure, Deficiency rectified,)<BR>2 x breathing apparatus sets fitted with bottles below full charge (Rectify deficiency before departure, Deficiency rectified,)<BR>No search light available for rescue boat (Rectify deficiency before departure, Deficiency rectified,)<BR>Firemans suit equipment not complete - torch missing from equipment. (Rectify deficiency before departure, Deficiency rectified,)<BR>Fire dampers at aft end of hold unable to be adequatley closed (Rectify deficiency before departure,)<BR>Crew not familiar with operation of GMDSS system fitted onboard. (Rectify deficiency before departure,)<BR>Free fall lifeboat side securing plates siezed in closed position. (Rectify deficiency before departure, Deficiency rectified,)<BR>The vessels SMS, to ensure the vessel and it's equipment is maintened,  appears not to function as evidenced by defects 1, 3, 4 , 8 and 10 (Rectify deficiency within 3 months,)<BR>Vessels EGC not configured to recieve coastal navigation and weather warnings. (Rectify deficiency before departure, Deficiency rectified,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Detention-1 Day
+                                </td>
+                                <td>
+                                    2012-07-04
+                                </td>
+                                <td>
+                                    Kwinana, WA, AUSTRALIA
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh &amp; Co Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        12  Defects:<BR>Emergency Systems - Emergency source of power - Emergency generator ()<BR>Emergency Systems - Emergency fire pump and its pipes ()<BR>Life saving appliances - Operational readiness of lifesaving appliances (To be rectified before departure, Rectified,)<BR>Life saving appliances - Operational readiness of lifesaving appliances (To be rectified before departure, Rectified,)<BR>Fire safety - Personal equipment for fire safety (To be rectified before departure,)<BR>Life saving appliances - Rescue boat inventory (To be rectified before departure,)<BR>Fire safety - Personal equipment for fire safety (To be rectified before departure,)<BR>Fire safety - Fire-dampers (To be rectified before departure,)<BR>Radio communication - Operation of GMDSS equipment (To be rectified before departure,)<BR>Life saving appliances - Maintenance of Life Saving Appliances (To be rectified before departure,)<BR>ISM - Maintenance of the ship and equipment (To be rectified within 3 months,)<BR>Radio communication - Facilities for reception of marine safety inform. (To be rectified before departure,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2012-05-25
+                                </td>
+                                <td>
+                                    Samarinda
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2011-10-17
+                                </td>
+                                <td>
+                                    Port Alma
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh &amp; Co Kg
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2011-08-26
+                                </td>
+                                <td>
+                                    Corpus Christi
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detailed Inspection
+                                </td>
+                                <td>
+                                    2010-11-05
+                                </td>
+                                <td>
+                                    Ceuta
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        4   Defects:<BR>Propulsion & aux. - Auxiliary engine - Not as required<BR>Fire safety measures - Fire prevention structure - Inadequate<BR>Fire safety measures - Fire-dampers - Not as required<BR>Working spaces and accident prevention - Safe means of access - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2010-07-11
+                                </td>
+                                <td>
+                                    Alexandria (Egypt)
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    Bbc Chartering Gmbh&amp;Co.Kg.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Vina Del Mar
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2010-01-13
+                                </td>
+                                <td>
+                                    Santa Marta
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2009-11-02
+                                </td>
+                                <td>
+                                    Beirut
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        4   Defects:<BR>Other (alarms) (Rectify deficiency before departure, Deficiency rectified)<BR>Closing devices / watertight doors (Rectify deficiency before departure, Deficiency rectified)<BR>Rudder angle indicator (Rectify deficiency before departure, Deficiency rectified)<BR>Nautical publications (Rectify deficiency before departure, Deficiency rectified)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2009-08-10
+                                </td>
+                                <td>
+                                    New York &amp; New Jersey
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard LE
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2009-08-10
+                                </td>
+                                <td>
+                                    New York &amp; New Jersey
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    More detailed inspection
+                                </td>
+                                <td>
+                                    2009-03-04
+                                </td>
+                                <td>
+                                    Rostock
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        12  Defects:<BR>Safety of navigation - Magnetic compass - Not readable<BR>Propulsion & aux. - Auxiliary engine - Not as required<BR>Mooring arrangements  (ILO 147) - Winches & capstans - Not properly mantained<BR>ISM related deficiencies - Maintenance of the ship and equipment - Not according SMS<BR>Fire safety measures - Fire-dampers - Not as required<BR>Fire safety measures - Fire-dampers - Not as required<BR>Working spaces and accident prevention - Safe means of access deck - hold/tank, etc. - Not as required<BR>Fire safety measures - Fire prevention structure - Inadequate<BR>Mooring arrangements  (ILO 147) - Anchoring devices - Not properly mantained<BR>Structural safety - Emergency lighting,batteries and switches - Not as required<BR>Fire safety measures - Ventilation - Insufficient<BR>Fire safety measures - Fire fighting equipment and appliances - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Detention-5 Days
+                                </td>
+                                <td>
+                                    2008-10-24
+                                </td>
+                                <td>
+                                    Guangzhou
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        5   Defects:<BR>maintenance and inspection<BR>nautical publications<BR>nautical publications<BR>rescue boats<BR>MF/HF radio installation<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Detention-6 Days
+                                </td>
+                                <td>
+                                    2008-08-19
+                                </td>
+                                <td>
+                                    Halden
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        20  Defects:<BR>Life saving appliances - Lifebuoys - Not as required<BR>Propulsion & aux. - Other (machinery) - Other<BR>Operational deficiencies - Muster list - Incomplete<BR>Radiocommunications - Reserve source of energy - Not as required<BR>Propulsion & aux. - Insulation wetted through (oil) - Insufficient<BR>Propulsion & aux. - Cleanliness of engine room - Insufficient<BR>Load lines - Ventilators, air pipes, casings - Not as required<BR>Structural safety - Other safety in general - Other<BR>Fire safety measures - Personal equipment - Not as required<BR>Life saving appliances - Embarkation arrangement survival craft - Not properly mantained<BR>Life saving appliances - Radio life-saving appliances - Improperly used<BR>Working spaces and accident prevention - Other (working space ILO) - Other<BR>ISM related deficiencies - Maintenance of the ship and equipment - Missing<BR>Fire safety measures - Fire fighting equipment and appliances - Not as required<BR>Working spaces and accident prevention - Lighting - Missing<BR>Fire safety measures - Fire-dampers - Not as required<BR>Fire safety measures - Fire-dampers - Not as required<BR>Working spaces and accident prevention - Safe means of access deck - hold/tank, etc. - Not as required<BR>Fire safety measures - Other (fire safety) - Other<BR>Structural safety - Steering gear - Inoperative<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Med MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2008-07-16
+                                </td>
+                                <td>
+                                    Alexandria (Egypt)
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        3   Defects:<BR>Nautical publications (Rectify deficiency before departure, Deficiency rectified)<BR>Nautical publications (Rectify deficiency before departure, Deficiency rectified)<BR>Oil filtering equipment<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2008-04-29
+                                </td>
+                                <td>
+                                    Jacksonville
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2008-04-16
+                                </td>
+                                <td>
+                                    Galveston
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        1  Defect:<BR>NAVIGATION -  COLLISION/GROUNDING AVOIDANCE<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    AMSA
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2008-01-25
+                                </td>
+                                <td>
+                                    Fremantle
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    Bbc Chartering &amp; Logistic Gmbh &amp; Co Kg
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        7   Defects:<BR>No record of freefall lifeboat/rescue boat launched and manoevured in water since Apr/2007. (Other, within one month or next earliest opportunity.)<BR>Several engine room oil tank sounding pipe self-closing cock seized/lashed open. (Rectify deficiency before departure, Deficiency rectified,)<BR>Portable foam applicator near auxiliary boiler - one foam tank low level.  Leaked foam found around unit. (Rectify deficiency before departure, Deficiency rectified,)<BR>Accommodation aft one trunking found signs of corrosion and wastage.  Tapes been applied to corroded area. (Other, Class society surveyor to check and be dealt with accordingly.)<BR>No record of annual inspection of lifeboat/rescue boat release arrangement since Nov/2006. (Other, one month.)<BR>One funnel flap not closing completely. (Rectify deficiency before departure, Deficiency rectified,)<BR>Safety management system with respect to emergency preparedness ineffective.  (Objective evidence def. item No.1) (Rectify deficiency within 3 months,)<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Vina Del Mar
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2007-09-14
+                                </td>
+                                <td>
+                                    Comodoro Rivadavia
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        4   Defects:<BR>Inmediate Readiness<BR>Communication<BR>Inmediate Readiness<BR>Portable Radio Installation<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Vina Del Mar
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2007-09-13
+                                </td>
+                                <td>
+                                    Comodoro Rivadavia
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        6   Defects:<BR>Other<BR>Inmediate Readiness<BR>Communication<BR>Inmarsat Ship Earth Station<BR>Inmediate Readiness<BR>Portable Radio Installation<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2007-04-19
+                                </td>
+                                <td>
+                                    Singapore
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        1  Defect:<BR>Endorsement by flag States<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    More detailed inspection
+                                </td>
+                                <td>
+                                    2007-03-03
+                                </td>
+                                <td>
+                                    Sandnessjoen
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Tokyo MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2006-07-10
+                                </td>
+                                <td>
+                                    Lyttelton
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2005-12-12
+                                </td>
+                                <td>
+                                    Houston
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Initial inspection
+                                </td>
+                                <td>
+                                    2005-08-15
+                                </td>
+                                <td>
+                                    Reykjavik
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    US Coastguard
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2005-03-12
+                                </td>
+                                <td>
+                                    Corpus Christi
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2004-11-12
+                                </td>
+                                <td>
+                                    Las Palmas
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Antigua &amp; Barbuda
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2003-12-04
+                                </td>
+                                <td>
+                                    Antwerp
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Netherlands Antilles
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2003-09-15
+                                </td>
+                                <td>
+                                    Tyne
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Netherlands Antilles
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="8">
+                                        8   Defects:<BR>Fire safety measures - Fire-dampers - Inoperative<BR>Life saving appliances - Lifeboats - Damaged<BR>Load lines - Ventilators, air pipes, casings - Not as required<BR>Load lines - Freeboard marks - Not properly marked<BR>Radiocommunications - INMARSAT ship earth station - Not as required<BR>ISM related deficiencies - Resources and personnel - Incomplete<BR>ISM related deficiencies - Reports of non-conf., accidents & hazardous occur. - Incomplete<BR>Life saving appliances - Lifebuoys - Not as required<BR>
+                                    </td>
+                                </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2003-04-12
+                                </td>
+                                <td>
+                                    Antwerp
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Netherlands Antilles
+                                </td>
+                                <td>
+                                    Germanischer Lloyd (Gl)
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Paris MOU
+                                </td>
+                                <td>
+                                    Inspection
+                                </td>
+                                <td>
+                                    2002-11-22
+                                </td>
+                                <td>
+                                    Thunder Bay
+                                </td>
+                                <td>
+                                    Bbc Iceland
+                                </td>
+                                <td>
+                                    Netherlands Antilles
+                                </td>
+                                <td>
+                                    
+                                </td>
+                                <td>
+                                    
+                                </td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+</div>

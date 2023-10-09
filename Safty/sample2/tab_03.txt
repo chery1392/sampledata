@@ -1,0 +1,5 @@
+<div class="detailsectionwrapper">
+	<div class="resultheader">Surveys</div>
+				<p>Special Survey Due 2027-09-09, Assigned 2022-09-13, American Bureau of Shipping</p>
+				<p>Docking Survey Due 2025-09-12, Assigned 2022-09-13, American Bureau of Shipping</p>
+</div>

@@ -1,0 +1,10 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Shipbuilder</div>
+            <p>
+                1987-06
+                
+                
+                <a href="/Builders/Details/JPN071" data-bs-toggle="tooltip" title="Hakata Zosen K.K. (Imabari, Ehime, Japan) Current">Hakata Zosen K.K. - Imabari</a>
+                  Yard/hull No.: 353
+            </p>
+</div>

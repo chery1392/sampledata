@@ -1,0 +1,25 @@
+
+<div class="detailsectionwrapper">
+    <div class="resultheader">Crew List</div>
+            <p> Data as of 2019-06-04</p>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Nationality</th>
+                        <th>Total Ratings</th>
+                        <th>Total Officers</th>
+                        <th>Total Crew</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Russian</td>
+                            <td>6</td>
+                            <td>7</td>
+                            <td>14</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+</div>

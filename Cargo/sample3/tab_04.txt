@@ -1,0 +1,13 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Compartments</div>
+<div class="noDataAvailableDiv">
+    <div class="noDataAvailableIconContainer">
+        <img src="/Images/icon_no_data.svg" class="noDataAvailableIcon"/>
+    </div>
+    <div>
+        <p class="noDataAvailableText">
+            No Data Available
+        </p>
+    </div>
+</div>
+</div>

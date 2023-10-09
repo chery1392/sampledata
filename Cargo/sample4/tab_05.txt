@@ -1,0 +1,4 @@
+<div class="detailsectionwrapper">
+    <div class="resultheader">Hatches</div>
+        <p>1 Centre Or Only Normal Hatch 14.40m long by 15.20m breadth, 4 Centre Or Only Normal Hatch 19.20m long by 16.80m breadth, 1 Centre Or Only Engine Room</p>
+</div>

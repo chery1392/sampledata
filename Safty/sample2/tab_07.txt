@@ -1,0 +1,250 @@
+    <div class="detailsectionwrapper">
+        <div class="resultheader">Safety Certificates</div>
+            <p class="fw-bold">Data as reported by Port State Control Authorities in last 12 Months</p>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                <div>Certificate</div>
+                            </th>
+                            <th>
+                                <div>Issue Date</div>
+                            </th>
+                            <th>
+                                <div>Expiry Date</div>
+                            </th>
+                            <th>
+                                <div>Issued By</div>
+                            </th>
+                            <th>
+                                <div>Inspected</div>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>
+                                    <div>Cargo Ship Safety Construction</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Cargo Ship Safety Equipment</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Cargo Ship Safety Radio</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Document of Compliance</div>
+                                </td>
+                                <td>
+                                    <div>2021-11-05</div>
+                                </td>
+                                <td>
+                                    <div>2025-09-28</div>
+                                </td>
+                                <td>
+                                    <div>Det Norske Veritas</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>International Air Pollution Prevention</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>International Anti-Fouling System</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div></div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>International Energy Efficiency Certificate</div>
+                                </td>
+                                <td>
+                                    <div>2021-11-28</div>
+                                </td>
+                                <td>
+                                    <div></div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>International Oil Pollution Prevention (IOPP)</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>International Sewage Pollution Prevention</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Load Line</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-13</div>
+                                </td>
+                                <td>
+                                    <div>2027-09-09</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Maritime Labour Certificate</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-20</div>
+                                </td>
+                                <td>
+                                    <div>2025-12-01</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Minimum Safe Manning Document</div>
+                                </td>
+                                <td>
+                                    <div>2023-02-11</div>
+                                </td>
+                                <td>
+                                    <div></div>
+                                </td>
+                                <td>
+                                    <div>Liberia</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Safety Management Certificate</div>
+                                </td>
+                                <td>
+                                    <div>2022-09-20</div>
+                                </td>
+                                <td>
+                                    <div>2025-12-01</div>
+                                </td>
+                                <td>
+                                    <div>American Bureau of Shipping</div>
+                                </td>
+                                <td>
+                                    <div>2023-04-03 by Tokyo MOU</div>
+                                </td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+</div>
